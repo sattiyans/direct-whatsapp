@@ -23,9 +23,9 @@ Direct WhatsApp phone number without saving it as contact. Made using Core PHP. 
 
 * Open the folder in Terminal
 * Type in this command and press enter
-```
-php -S localhost:8000
-```
+   ```
+   php -S localhost:8000
+   ```
 * Open http://localhost:8000 in your browser.
 
 ## Authors
